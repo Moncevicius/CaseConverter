@@ -23,7 +23,3 @@ ADDITIONAL INFORMATION
 Every single stage information can be found inside 'Case Converter' folder. 
 Upon going inside the folder and selecting specific stage, 'task.html' provides information what is required/needed to be done to complete the stage. 
 'Task' folder, 'main.js' contains the final stage implementation including previous stages.
-
-'Topics' folder contains exercises that are required to be solved prior to solving stages. 
-By going inside the folder and selecting a topic, information about the exercise specific to the topic can be found inside 'task.html'
-and the code inside 'main.js'.
