@@ -1,0 +1,28 @@
+body{
+    padding: 20px;
+    margin: 15px;
+}
+
+.title{
+    font-size: 24px;
+    margin: 5px;
+}
+
+textarea{
+    width: 590px;
+    height: 200px;
+    font-size: 16px;
+    margin: 5px;
+}
+
+.button-container{
+    display: flex;
+    margin: 5px;
+}
+
+button{
+    width: auto;
+    height: auto;
+    background-color: coral;
+    font-size: larger;
+}
