@@ -2,6 +2,8 @@
 
 https://hyperskill.org/projects/193
 
+https://hyperskill.org/profile/271391908
+
 ABOUT
 
 We work with texts quite often, and it's very sad when it turns out that the text should have been written in a different case.
